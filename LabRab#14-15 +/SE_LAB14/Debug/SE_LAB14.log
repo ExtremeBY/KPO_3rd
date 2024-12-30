@@ -1,0 +1,33 @@
+﻿Сборка начата 31.10.2024 17:13:10.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\renam\SOMETHING #1\LabRab\KPO\LabRab#14-15 +\SE_LAB14\SE_LAB14.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\SE_LAB14.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Error.cpp In.cpp Log.cpp Out.cpp Parm.cpp main.cpp
+         Error.cpp
+         In.cpp
+         Log.cpp
+         Out.cpp
+         Parm.cpp
+         main.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\renam\SOMETHING #1\LabRab\KPO\LabRab#14-15 +\Debug\SE_LAB14.exe" /INCREMENTAL /ILK:"Debug\SE_LAB14.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\renam\SOMETHING #1\LabRab\KPO\LabRab#14-15 +\Debug\SE_LAB14.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\renam\SOMETHING #1\LabRab\KPO\LabRab#14-15 +\Debug\SE_LAB14.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\In.obj
+         Debug\Log.obj
+         Debug\main.obj
+         Debug\Out.obj
+         Debug\Parm.obj
+         SE_LAB14.vcxproj -> C:\Users\renam\SOMETHING #1\LabRab\KPO\LabRab#14-15 +\Debug\SE_LAB14.exe
+       TlogCleanup:
+         Следующие элементы будут удалены из tlogs, так как они были удалены из проекта или сборки: C:\Users\renam\SOMETHING #1\LabRab\KPO\LabRab#14\SE_LAB14\Error.cpp.
+       FinalizeBuildStatus:
+         Файл "Debug\SE_LAB14.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_LAB14.tlog\SE_LAB14.lastbuildstate".
+     1>Сборка проекта "C:\Users\renam\SOMETHING #1\LabRab\KPO\LabRab#14-15 +\SE_LAB14\SE_LAB14.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:03.51
